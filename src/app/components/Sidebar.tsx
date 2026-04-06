@@ -88,8 +88,8 @@ export function Sidebar() {
               JD
             </div>
             <div className="flex-1">
-              <div className="text-gray-900 dark:text-white text-sm font-medium">John Doe</div>
-              <div className="text-gray-500 dark:text-gray-400 text-xs">john@zorvyn.com</div>
+              <div className="text-gray-900 dark:text-white text-sm font-medium">Svsr Jaichandra</div>
+              <div className="text-gray-500 dark:text-gray-400 text-xs">svsrjaichandra@gmail.com</div>
             </div>
           </div>
         </motion.div>
